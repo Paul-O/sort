@@ -18,4 +18,9 @@ public class List
     }
     return x;
   }
+  
+  public static void main(String[] args)
+  {
+    
+  }
 }
